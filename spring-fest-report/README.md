@@ -12,7 +12,7 @@ https://springfest2019.springframework.jp/
 * Spring Boot アプリの運用が楽になる？ Pivotal と Microsoft が共同開発した専用 PaaS「Azure Spring Cloud」のご紹介 !!
 * LINE公式アカウントのチャットシステムにおけるSpringおよびWebFluxの活用事例
 
-### ootomo君
+### ootomo君(sasasasss)
 * 入社１年目のプログラム初心者がSpringを学ぶための手引き
 * 徹底解剖Spring MVCアーキテクチャー -DispatcherServletの中身を覗いてきました-
 
