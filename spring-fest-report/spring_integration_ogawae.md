@@ -54,7 +54,7 @@ Spring Integrationではサーバ間の連携を「Message」として扱い、
 システム間連携のための実装をするため、業務アプリケーションを作成するよりは書き方が決まっている印象を受けました。  
 自分で連携する内容を作成するため、かゆいところにも手が届くような連携が可能なのではと思いました。
 * 関連システムが増えれば増えるほど、同じものようなメッセージフローが沢山作成されるということから、  
-積極的に共通化する箇所を見つけなければならないと分かりました（システム間連携をGUIのツールでも同様）。
+積極的に共通化する箇所を見つけなければならないと分かりました（GUIのツールを使う場合でも同様）。
 
 
 ## 疑問点
@@ -66,8 +66,8 @@ https://spring.io/guides/gs/integration/
 * これを実装するのはアプリケーション側なのか、環境側なのか、線引きが私の中で曖昧です。
 
 ## 講義資料URL
-(Enterprise integration pattern)
-https://en.wikipedia.org/wiki/Enterprise_Integration_Patterns
-(Spring Integration)
-https://spring.io/projects/spring-integration
+(Enterprise integration pattern)  
+https://en.wikipedia.org/wiki/Enterprise_Integration_Patterns  
+(Spring Integration)  
+https://spring.io/projects/spring-integration  
 https://qiita.com/akichikn/items/63cb9b82212b6e046419
